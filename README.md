@@ -27,3 +27,12 @@ LDR sensor
 📄 Σημείωση
 
 Μπορείς να αλλάξεις το BUZZER_PIN αν χρησιμοποιείς διαφορετικό pin εξόδου.
+
+ΦΩΤΟΓΡΑΦΙΑ:
+
+![9bdc234f-64d3-441c-a2c2-814ad88f55fc](https://github.com/user-attachments/assets/8632b555-d1c4-4ddd-8624-d200979e9ac8)
+
+
+
+https://github.com/user-attachments/assets/280cab2a-5c05-459c-985e-f42cba1042a0
+
