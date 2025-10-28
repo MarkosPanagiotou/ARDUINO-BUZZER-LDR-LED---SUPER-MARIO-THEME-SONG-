@@ -1,2 +1,29 @@
-# ARDUINO-BUZZER-LDR-LED---SUPER-MARIO-THEME-SONG-
-Arduino coding that can play SUPER MARIO'S THEME SONG ( LDR SENSOR, LED &amp; BUZZER ) , FOR A GREAT EXPERIENCE
+🎵 Super Mario Theme με Arduino Buzzer
+🧠 Περιγραφή
+
+Αυτό το project παίζει το γνωστό Super Mario Bros. theme χρησιμοποιώντας έναν βομβητή (buzzer) συνδεδεμένο στο Arduino.
+Η μελωδία δημιουργείται μέσω εντολών tone() και noTone(), με καθορισμένες συχνότητες και χρονικές καθυστερήσεις.
+
+⚙️ Υλικά
+
+Arduino Uno ή συμβατό μικροελεγκτή
+
+Buzzer (παθητικός ή ενεργός)
+
+Καλώδια σύνδεσης
+
+Breadboard (προαιρετικά)
+
+LDR sensor
+
+💻 Χρήση
+
+Αντέγραψε τον κώδικα στο Arduino IDE.
+
+Ανέβασε το sketch στην πλακέτα.
+
+Απόλαυσε τη μουσική του Super Mario! 🍄🎶
+
+📄 Σημείωση
+
+Μπορείς να αλλάξεις το BUZZER_PIN αν χρησιμοποιείς διαφορετικό pin εξόδου.
